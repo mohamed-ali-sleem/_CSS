@@ -1,0 +1,27 @@
+* {
+  text-align: center;
+}
+
+
+#page-title {
+  color: red;
+  font-size: 50px;
+
+}
+
+/* p {
+  text-align: center;
+} */
+
+p.text {
+  color: darkblue;
+  font-size: 30px;
+}
+
+[title="content"] {
+  font-size: 80px;
+}
+
+.text,.large {
+  font-weight: 900;
+}
