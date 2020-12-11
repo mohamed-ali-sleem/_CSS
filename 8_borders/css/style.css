@@ -1,0 +1,15 @@
+.border {
+  /* border-style: solid dotted;
+  border-width: 3px 1px;
+  border-color: red green black black; */
+  /* border-bottom: 3px solid green;
+  border-top: 3px solid red;
+  border-left: 2px solid black;
+  border-right: 2px solid black; */
+  border: 2px solid #ddd;
+  border-radius: 2px; 
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
