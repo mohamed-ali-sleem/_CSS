@@ -1,0 +1,6 @@
+.outline {
+  border: 10px solid black;
+  outline: 5px solid red;
+  outline-offset: 15px;
+  margin: 30px;
+}
