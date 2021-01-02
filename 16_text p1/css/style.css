@@ -1,0 +1,36 @@
+h1 {
+  color: white;
+  background-color: black;
+  /* // text-align: center; */
+  text-align: justify;
+}
+span {
+  text-align: center;
+}
+.center {
+  width: 200px;
+  text-align: justify;
+}
+
+img.baseline {
+  /* vertical-align: baseline; */
+}
+img.text-top {
+  vertical-align: text-top;
+}
+img.text-bottom {
+  vertical-align: text-bottom;
+}
+img.middle {
+  vertical-align: middle;
+}
+img.top {
+  vertical-align: top;
+}
+img.bottom {
+  vertical-align: bottom;
+}
+
+a {
+  text-decoration: line-through dotted;
+}
