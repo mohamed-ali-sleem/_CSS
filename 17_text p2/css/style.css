@@ -1,0 +1,20 @@
+p {
+  /* text-align: right;
+  direction: rtl; */
+  /* letter-spacing: 4px; */
+  /* font-size: 16px; */
+  /* line-height: 80%; */
+  /* text-indent: -10px; */
+  /* text-transform: lowercase; */
+  /* text-overflow: ellipsis;
+  height: 50px;
+  overflow: hidden; */
+  /* white-space: pre-wrap; */
+  /* text-shadow: 2px 2px #ddd; */
+  /* word-spacing: -10px; */
+  writing-mode: horizontal-tb;
+}
+
+span {
+  writing-mode: vertical-rl;
+}
