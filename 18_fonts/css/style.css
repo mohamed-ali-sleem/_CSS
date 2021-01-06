@@ -1,0 +1,15 @@
+/* p {
+  font-family: 'Courier New', Courier, monospace;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+span {
+  /* text-transform: uppercase; 
+  font-variant: small-caps;
+} */
+
+p {
+  font: italic small-caps 900 12px/20px 'Courier New', Courier, monospace; ;
+}
