@@ -1,0 +1,24 @@
+a {
+
+}
+
+/* unvisited link */
+a:link {
+    color: brown;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: darkgreen;
+}
+
+/* active link */
+a:active {
+    color: fuchsia;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: black;
+}
