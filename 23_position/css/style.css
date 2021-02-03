@@ -1,0 +1,52 @@
+/* 
+    left 
+    top 
+    right
+    bottom
+*/
+
+body {
+    height: 2000px;
+}
+
+.static {
+    position: static;
+    left:20px;
+    border: 1px solid green;
+ 
+    /* margin-top: 100px; */
+}
+
+.relative {
+    position: relative;
+    /* left:20px; */
+    border: 1px solid red;
+    /* top: 20px; */
+    height: 200px;
+}
+
+.absolute {
+    position: absolute;
+    left: 20px;
+    border: 1px solid #ddd;
+    top: 20px;
+    
+}
+
+
+.fixed {
+    position: fixed;
+    left: 20px;
+    border: 1px solid darkblue;
+    top: 20px; 
+}
+
+.sticky {
+    position: sticky;
+    left: 20px;
+    border: 1px solid darkblue;
+    top: 20px; 
+}
+
+
+
